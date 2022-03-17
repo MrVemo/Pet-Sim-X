@@ -1,4 +1,4 @@
-local Luxtl = loadstring(game:HttpGet("https://raw.githubusercontent.com/MrVemo/Pet-Sim-X/main/UiLib.lua"))()
+local Luxtl = loadstring(game:HttpGet("https://raw.githubusercontent.com/MrVemo/Pet-Sim-X/main/UiLib.lua?token=GHSAT0AAAAAABSOUWA6MFIC2QYYBX5BZRGSYRTNREA"))()
 
 local Luxt = Luxtl.CreateWindow("Wisteria GUI", 6284583030)
 
