@@ -1,8 +1,8 @@
-local Luxtl = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Luxware-UI-Library/main/Source.lua"))()
+local Luxtl = loadstring(game:HttpGet("https://raw.githubusercontent.com/MrVemo/Pet-Sim-X/main/UiLib.lua"))()
 
-local Luxt = Luxtl.CreateWindow("Wisteria GUI", 6105620301)
+local Luxt = Luxtl.CreateWindow("Wisteria GUI", 6284583030)
 
-local mainTab = Luxt:Tab("Auto-Farm", 6087485864)
+local mainTab = Luxt:Tab("Auto-Farm", 6284583030)
 local teleportsTab = Luxt:Tab("Teleports")
 local autoQTab = Luxt:Tab("Auto-Quest")
 local combatTab = Luxt:Tab("Combat")
